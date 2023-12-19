@@ -116,3 +116,4 @@ ls --color=auto -y
 man -y
 help -y
 help test
+[[ -a countdown.sh ]]
