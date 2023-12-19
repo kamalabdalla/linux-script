@@ -68,3 +68,4 @@ echo arg1
 ./countdown.sh arg1
 ./countdown.sh
 ./countdown.sh
+./countdown.sh 4
