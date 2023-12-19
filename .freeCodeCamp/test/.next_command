@@ -204,3 +204,4 @@ help test
 ./bi
 ./bingo.sh
 ./bingo.sh
+touch fortune.sh
