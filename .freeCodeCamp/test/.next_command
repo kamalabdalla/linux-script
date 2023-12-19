@@ -62,3 +62,6 @@ help
 man if
 __vsc_prompt_cmd_original
 help if
+arg1
+echo arg1
+./countdown.sh arg1
