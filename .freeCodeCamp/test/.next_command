@@ -248,3 +248,4 @@ git push -u origin master
 ./fortune.sh
 ARR=("a" "b" "c")
 echo ${ARR[1]}
+echo ${ARR[@]}
