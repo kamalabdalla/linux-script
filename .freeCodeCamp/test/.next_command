@@ -187,3 +187,4 @@ echo $I
 __vsc_prompt_cmd_original
 J=$((I +- 6))
 J=$((I - 6))
+echo $J
