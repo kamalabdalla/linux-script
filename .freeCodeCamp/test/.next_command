@@ -72,3 +72,9 @@ echo arg1
 ./countdown.sh 5
 help false
 help
+help if
+help if
+help expression
+help if
+help [[expression]]
+help [[ expression ]]
