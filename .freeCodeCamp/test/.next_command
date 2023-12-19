@@ -254,3 +254,4 @@ echo
 echo $RESPONSES
 echo ${RESPONSES[5]}
 ./fortune.sh
+echo ${RESPONSES[$N]}
