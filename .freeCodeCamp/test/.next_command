@@ -173,3 +173,5 @@ __vsc_prompt_cmd_original
 echo I
 echo $I
 ((I++))
+echo I
+echo $I
