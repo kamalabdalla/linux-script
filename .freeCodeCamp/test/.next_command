@@ -200,3 +200,7 @@ echo $(( RANDOM % 75 + 1 ))
 help let
 help test
 help test
+./bingo.sh
+./bi
+./bingo.sh
+./bingo.sh
