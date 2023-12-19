@@ -141,3 +141,5 @@ ls --color=auto /
 ls --color=auto /bin
 man sleep
 sleep 3
+./countdown.sh sleep 1
+countdown.sh sleep 1
