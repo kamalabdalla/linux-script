@@ -262,3 +262,4 @@ echo Ask a yes or no question:
 ./fortune.sh
 ./f
 ./fortune.sh
+help
