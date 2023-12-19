@@ -60,3 +60,5 @@ echo $1
 __vsc_prompt_cmd_original
 help
 man if
+__vsc_prompt_cmd_original
+help if
