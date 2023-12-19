@@ -134,3 +134,4 @@ help [[ expression ]]
 4
 4
 ./countdown.sh
+help
