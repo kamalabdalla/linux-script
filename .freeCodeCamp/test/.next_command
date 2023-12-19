@@ -113,3 +113,6 @@ hist
 history
 ls --color=auto -y
 ls --color=auto -y
+man -y
+help -y
+help test
