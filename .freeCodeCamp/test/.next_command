@@ -258,3 +258,4 @@ echo ${RESPONSES[$N]}
 help
 help
 help function
+echo Ask a yes or no question:
