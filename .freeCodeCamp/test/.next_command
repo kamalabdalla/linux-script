@@ -117,3 +117,6 @@ man -y
 help -y
 help test
 [[ -a countdown.sh ]]
+bad_file.txt
+[[ -a countdown.sh ]]
+[[ -a bad_file.txt ]]
