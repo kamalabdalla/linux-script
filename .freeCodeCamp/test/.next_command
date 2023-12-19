@@ -175,3 +175,4 @@ echo $I
 ((I++))
 echo I
 echo $I
+help let
