@@ -256,3 +256,5 @@ echo ${RESPONSES[5]}
 ./fortune.sh
 echo ${RESPONSES[$N]}
 help
+help
+help function
