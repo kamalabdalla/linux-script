@@ -109,3 +109,7 @@ bad_command
 bad_command
 bad_command
 ls --color=auto
+hist
+history
+ls --color=auto -y
+ls --color=auto -y
