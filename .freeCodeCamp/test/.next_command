@@ -78,3 +78,6 @@ help expression
 help if
 help [[expression]]
 help [[ expression ]]
+help
+help test
+__vsc_prompt_cmd_original
